@@ -1,0 +1,44 @@
+.card{
+    width: 80%;
+    height: 800px;
+    margin-left: 30px;
+    border: 1px solid grey;
+    border-radius: 10px;
+}
+
+.card-img{
+    width: 50%;
+    height: 50%;
+    
+}
+.card-title{
+    color: rgb(2, 20, 31);
+    font-size: 40px;
+    font-weight: 700;
+}
+
+
+.card-text p{
+    color: rgb(120, 145, 145);
+    font-size: 16px;
+}
+.card:hover{
+    background-color: rgb(212, 224, 224);
+    cursor: pointer;
+}
+.order-btn{
+    border: 1px solid rgb(156, 151, 151);
+    border-radius: 10px;
+    height: 40px;
+    width: 200px;
+    color: rgb(6, 64, 68);
+    font-weight: 700;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+/* make responsive */
+@media only screen  and (min-width : 688px ) and (max-width : 768px){
+    .cards{
+        grid-template-columns: repeat(2, 1fr);
+    }
+}

@@ -1,0 +1,18 @@
+
+.signup-btn{
+    margin: 20px 100px 20px 10px ;
+    background-color: rgb(212, 229, 236);
+    height: 35px;
+    width: 80px;
+    border: 1px solid rgb(186, 201, 202);
+    border-radius: 5px;
+    
+}
+.google-signIn{
+    margin: 20px 40px 0 20px;
+    background-color: rgb(212, 229, 236);
+    height: 40px;
+    width: 150px;
+    border: 1px solid rgb(186, 201, 202);
+    border-radius: 5px;
+}

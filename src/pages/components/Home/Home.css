@@ -1,0 +1,52 @@
+.banner{
+    margin : 50px 80px;
+}
+.carousel-description img{
+ width: 60px;
+ height: 350px;
+}
+.all-services{
+    font-size: 30px;
+    margin: 30px;
+    font-weight: 600;
+    color: rgb(110, 20, 98);
+}
+.areas-name{
+    margin : 30px 180px 30px 40px;
+}
+.areaSection-title, .input-address{
+    color: rgb(182, 98, 30);
+    font-size: 20px;
+    margin: 20px 40px 30px 10px;
+}
+.input-area{
+    width: 60%;
+    margin-top: 30px;
+}
+.area-part{
+    display: flex;
+    margin-top: 40px;
+}
+.areas-detail{
+    margin-right: 10px 50px;
+}
+.address-btn{
+    width: 50px;
+    height: 40px;
+    margin-top: 30px;
+    border: 1px solid rgb(211, 193, 193);
+    color: rgb(102, 94, 94);
+}
+.order-methods{
+    margin: 20px;
+    color: rgb(78, 4, 50);
+}
+.how-to-order{
+    margin: 50px 30px;
+}
+.howWorks{
+    margin: 60px;
+}
+.offers{
+    display: flex;
+}

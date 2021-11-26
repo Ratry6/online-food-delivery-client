@@ -1,0 +1,15 @@
+.error-messages h2{
+    color: rgb(187, 21, 54);
+    font-size: 55px;
+    margin: 60px;
+}
+.error-messages h4{
+    color: rgb(116, 13, 33);
+    font-size: 25px;
+}
+.error-img{
+    margin: 30px;
+    width: 500px;
+    
+    
+}

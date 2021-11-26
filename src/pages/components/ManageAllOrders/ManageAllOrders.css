@@ -1,0 +1,17 @@
+.manage-orders{
+    color: rgb(10, 93, 131);
+    font-size: 25px;
+    margin: 50px;
+}
+.managing-part{
+    display: flex;
+}
+.remove-order{
+    color: rgb(6, 6, 49);
+    font-weight: 700;
+    border-radius: 10px;
+    border: 1px solid rgb(187, 173, 173);
+    height: 40px;
+    margin-top: 10px;
+    width: 160px;
+}

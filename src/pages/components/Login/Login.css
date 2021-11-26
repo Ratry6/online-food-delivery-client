@@ -1,0 +1,36 @@
+.login-form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.title{
+    margin-top: 80px;
+    margin-bottom: 40px;
+    font-size: 30px;
+    font-weight: 600;
+    color: rgb(38, 184, 176);
+}
+.welcome-img{
+    width: 800px;
+   margin-right: 60px;
+}
+.signIn-form{
+    margin: 0 50px;
+}
+.signIn-btn{
+    margin: 20px ;
+    background-color: rgb(212, 229, 236);
+    height: 30px;
+    width: 90px;
+    border: 1px solid rgb(186, 201, 202);
+    border-radius: 5px;
+}
+.google-btn{
+    margin: 20px;
+    background-color: rgb(212, 229, 236);
+    height: 40px;
+    width: 150px;
+    border: 1px solid rgb(186, 201, 202);
+    border-radius: 5px;
+}

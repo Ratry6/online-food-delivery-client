@@ -1,0 +1,26 @@
+.order-number{
+    margin: 20px;
+    font-size: 25px;
+    font-family:monospace;
+    color: rgb(53, 65, 4);
+}
+.order-info{
+    justify-content: center;
+    align-items: center;
+    margin: 50px 70px 0 540px;
+}
+.info-title{
+    color: rgb(143, 10, 110);
+}
+.service-name{
+    font-weight: 600;
+    color: rgb(121, 10, 32);
+}
+.delete-btn{
+    background-color: rgb(236, 221, 236);
+    color: rgb(143, 10, 110);
+    border: 1px solid wheat;
+    height: 40px;
+    width: 120px;
+    border-radius: 10px;
+}

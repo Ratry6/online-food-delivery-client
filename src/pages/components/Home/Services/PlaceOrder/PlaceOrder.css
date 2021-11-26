@@ -1,0 +1,26 @@
+.individual-service{
+    
+    justify-content: center;
+    align-items: center;
+    margin: 40px 90px 20px 350px;
+    
+}
+.selected-service{
+    margin: 30px 250px 30px 150px;
+    font-size: 40px;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: 600;
+    color: rgb(116, 16, 82)
+
+}
+.get-food{
+    margin-top: 40px;
+    font-size: 25px;
+    color: rgb(116, 16, 82);
+   
+}
+
+.order-place input{
+    width: 80%;
+    margin: 30px 50px 5px 40px;
+}
